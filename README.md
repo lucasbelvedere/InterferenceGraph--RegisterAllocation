@@ -1,4 +1,4 @@
-# Project 6: Colorful Graphs
+# Colorful Graphs
 
 ![](images/complete_6.png)
 
